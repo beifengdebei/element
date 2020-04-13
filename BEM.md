@@ -16,3 +16,13 @@
 - 元素: .block__element
 - 修饰符: .block--modifier
 
+```css
+.block{
+    &__element{
+
+    }
+    &--modifier{
+        
+    }
+}
+```
